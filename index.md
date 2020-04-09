@@ -1,74 +1,38 @@
 <!DOCTYPE html>
-<html lang="en">
-	<head>
-		<meta	charset="utf-8">
-		<title>Share	Your	Travels	-- New	York	- Central	Park</title>
-		<style>
-body {
-font-family:	Georgia,	Cambria,	"Times	New	Roman",	serif;
-}
-		</style>
+<html>
+<head>
+    <!--Updated: Added new version of jQueryUI CDN.-->
+    <title>Snow College Testing Center</title>
+    <link href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/base/jquery-ui.css" rel="stylesheet" type="text/css"/>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+    <script type="text/javascript" language="javascript" src="js/testing.js"></script> 
+    <script type="text/javascript" language="javascript" src="js/email.js"></script> 
+    <link rel="stylesheet" href="css copy/email.css.css" />
 
 </head>
-<body>
-<header>
-	
-  <h1>Share Your Travels</h1>
-  
-  <h2>New York - Central Park</h2>
-  <nav>
-    <ul>
-	  <li><a href="#">Description</a></li>
-	  <li><a href="#related">Related Photos</a></li>
-	  <li><a href="#">Reviews</a></li>
-	  
-    </ul> 
-  </nav>
-</header>
-<article>
-   <section>
-	   <h3 id="description">Description</h3>
-	   <p>Photo by Randy Connolly</p>
-	   <p>This photo of Conservatory Pond in 
-	   <a href="http://www.centralpark.com/">Central Park</a> in
-	   <a href="newyork.html">New York City</a> was 
-	   taken on October 22, 2011 with a Canon EOS 30D camera. 
-	   </p>
-		<figure>
-		 <a href="images/large-central-park.jpg"><img src="images/central-park.jpg" alt="Central Park" title="Central Park"/></a>
-		 <figcaption><em>Conservatory Pond in Central Park</em></figcaption>
-		</figure>  
-   </section>
-   <section>
-	<h3	id="reviews">Reviews</h3>
-	<div>
-				<p class="first">By	Ricardo	on	<time>September	15,	2012</time></p>
-				<p>Easy	on	the	HDR	buddy.</p>
-	</div>
-	<hr/>
-	<div>
-			<p class="first">By	Susan	on	<time>October	1,	2012</time></p>
-			<p>I	love	Central	Park.</p>
-	</div>			
-	<hr/> 			
-</section>
-   <section>
-	   <h3 id="reviews">Reviews</h3>
-	   <div>
-		  <p>By Ricardo on <time>September 15, 2012</time></p>
-		  <p>Easy on the HDR buddy.</p>
-	   </div>
-	   <hr/>
-	   <div>
-		  <p>By Susan on <time>October 1, 2012</time></p>
-		  <p>I love Central Park.</p>
-	   </div>   
-	   <hr/>	   
-   </section>
-</article>
-<footer>
-  <p><a href="#">Home</a> | <a href="#">Browse</a> | <a href="#">Search</a></p>
-  <p><em>Copyright &copy; 2013 Share Your Travels</em></p>
-</footer>
-</body>
+
+<form id="myform" method="post">
+    <label>reply_to index.md</label>
+    <input type="text" name="reply_to" />
+    <label>from_name</label>
+    <input type="text" name="from_name" />
+    <label>to_name</label>
+    <input type="text" name="to_name" />
+    <label>message_html</label>
+    <input type="text" name="message_html" />
+    <br><br>
+    <button>
+    Send
+    </button>
+    </form>
+    
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/emailjs-com@2.3.2/dist/email.min.js"></script>
+    <script type="text/javascript">
+       (function(){
+          emailjs.init("user_G9hNkl9W6nFDiaLUdehpL");
+       })();
+    </script>
 </html>
