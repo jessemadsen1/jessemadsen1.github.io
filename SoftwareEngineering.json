@@ -357,6 +357,23 @@
     "SEMESTER": null,
     "EMPHASIS": null
   },
+    {
+    "SUBJ": "ENGL",
+    "CRS": "3260",
+    "SEC": "1",
+    "CRN": "4816",
+    "TITLE": "Technical Writing",
+    "CREDITS": "3",
+    "DAYS": "MWF",
+    "BLDG/RM": "GRSC 143",
+    "INSTRUCTOR": "Teichert, Adam",
+    "PREREQ": null,
+    "COREQ": null,
+    "COMPLETED": false,
+    "GRADE": null,
+    "SEMESTER": null,
+    "EMPHASIS": null
+  },
   {
     "SUBJ": "MATH",
     "CRS": "1210",
