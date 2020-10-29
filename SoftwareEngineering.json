@@ -1,4 +1,4 @@
-﻿[
+﻿"table":[
   {
     "SUBJ": "ART",
     "CRS": "1120",
@@ -766,7 +766,8 @@
     "COMPLETED": false,
     "GRADE": null,
     "SEMESTER": null
-  },  {
+  },  
+  {
     "SUBJ": "SE",
     "CRS": "4850",
     "SEC": "1",
