@@ -1,4 +1,6 @@
-﻿{"table":[
+﻿{
+"table":[
+[
   {
     "SUBJ": "ART",
     "CRS": "1120",
@@ -13,7 +15,8 @@
     "COREQ": null,
     "COMPLETED": false,
     "GRADE": null,
-    "SEMESTER": null
+    "SEMESTER": null,
+    "EMPHASIS": "0"
   },
   {
     "SUBJ": "ART",
@@ -29,7 +32,8 @@
     "COREQ": null,
     "COMPLETED": false,
     "GRADE": null,
-    "SEMESTER": null
+    "SEMESTER": null,
+    "EMPHASIS": "0"
   },
   {
     "SUBJ": "ART",
@@ -45,7 +49,8 @@
     "COREQ": null,
     "COMPLETED": false,
     "GRADE": null,
-    "SEMESTER": null
+    "SEMESTER": null,
+    "EMPHASIS": "0"
   },
   {
     "SUBJ": "BIOL",
@@ -61,7 +66,8 @@
     "COREQ": null,
     "COMPLETED": false,
     "GRADE": null,
-    "SEMESTER": null
+    "SEMESTER": null,
+    "EMPHASIS": "e"
   },
   {
     "SUBJ": "BIOL",
@@ -77,7 +83,8 @@
     "COREQ": null,
     "COMPLETED": false,
     "GRADE": null,
-    "SEMESTER": null
+    "SEMESTER": null,
+    "EMPHASIS": "e"
   },
   {
     "SUBJ": "BIOL",
@@ -93,23 +100,8 @@
     "COREQ": null,
     "COMPLETED": false,
     "GRADE": null,
-    "SEMESTER": null
-  },
-  {
-    "SUBJ": "BIOL",
-    "CRS": "2060",
-    "SEC": "2",
-    "CRN": "4980",
-    "TITLE": "Introductory Microbiology  LS",
-    "CREDITS": "3",
-    "DAYS": "MWF",
-    "BLDG/RM": "GRSC 243",
-    "INSTRUCTOR": "Sorensen, Kevin N.",
-    "PREREQ": null,
-    "COREQ": null,
-    "COMPLETED": false,
-    "GRADE": null,
-    "SEMESTER": null
+    "SEMESTER": null,
+    "EMPHASIS": "e"
   },
   {
     "SUBJ": "BIOL",
@@ -125,7 +117,8 @@
     "COREQ": null,
     "COMPLETED": false,
     "GRADE": null,
-    "SEMESTER": null
+    "SEMESTER": null,
+    "EMPHASIS": "e"
   },
   {
     "SUBJ": "BUS",
@@ -141,7 +134,8 @@
     "COREQ": null,
     "COMPLETED": false,
     "GRADE": null,
-    "SEMESTER": null
+    "SEMESTER": null,
+    "EMPHASIS": "1"
   },
   {
     "SUBJ": "BUS",
@@ -157,7 +151,8 @@
     "COREQ": null,
     "COMPLETED": false,
     "GRADE": null,
-    "SEMESTER": null
+    "SEMESTER": null,
+    "EMPHASIS": "1"
   },
   {
     "SUBJ": "BUS",
@@ -173,7 +168,8 @@
     "COREQ": null,
     "COMPLETED": false,
     "GRADE": null,
-    "SEMESTER": null
+    "SEMESTER": null,
+    "EMPHASIS": "1"
   },
   {
     "SUBJ": "CHEM",
@@ -189,7 +185,8 @@
     "COREQ": null,
     "COMPLETED": false,
     "GRADE": null,
-    "SEMESTER": null
+    "SEMESTER": null,
+    "EMPHASIS": "e"
   },
   {
     "SUBJ": "CHEM",
@@ -205,7 +202,8 @@
     "COREQ": null,
     "COMPLETED": false,
     "GRADE": null,
-    "SEMESTER": null
+    "SEMESTER": null,
+    "EMPHASIS": "e"
   },
   {
     "SUBJ": "COMM",
@@ -221,7 +219,8 @@
     "COREQ": null,
     "COMPLETED": false,
     "GRADE": null,
-    "SEMESTER": null
+    "SEMESTER": null,
+    "EMPHASIS": null
   },
   {
     "SUBJ": "CS",
@@ -237,7 +236,8 @@
     "COREQ": null,
     "COMPLETED": false,
     "GRADE": null,
-    "SEMESTER": null
+    "SEMESTER": null,
+    "EMPHASIS": null
   },
   {
     "SUBJ": "CS",
@@ -253,24 +253,26 @@
     "COREQ": null,
     "COMPLETED": false,
     "GRADE": null,
-    "SEMESTER": null
+    "SEMESTER": null,
+    "EMPHASIS": null
   },
-      {
-      "SUBJ": "CS",
-      "CRS": "1430",
-      "SEC": "1",
-      "CRN": "4766",
-      "TITLE": "User Experience Design",
-      "CREDITS": "1",
-      "DAYS": "T",
-      "BLDG/RM": "GRSC 143",
-      "INSTRUCTOR": "Teichert, Adam",
-      "PREREQ": null,
-      "COREQ": null,
-      "COMPLETED": false,
-      "GRADE": null,
-      "SEMESTER": null
-    },
+  {
+    "SUBJ": "CS",
+    "CRS": "1430",
+    "SEC": "1",
+    "CRN": "4766",
+    "TITLE": "User Experience Design",
+    "CREDITS": "1",
+    "DAYS": "T",
+    "BLDG/RM": "GRSC 143",
+    "INSTRUCTOR": "Teichert, Adam",
+    "PREREQ": null,
+    "COREQ": null,
+    "COMPLETED": false,
+    "GRADE": null,
+    "SEMESTER": null,
+    "EMPHASIS": null
+  },
   {
     "SUBJ": "CS",
     "CRS": "1810",
@@ -285,7 +287,8 @@
     "COREQ": null,
     "COMPLETED": false,
     "GRADE": null,
-    "SEMESTER": null
+    "SEMESTER": null,
+    "EMPHASIS": null
   },
   {
     "SUBJ": "CS",
@@ -301,7 +304,8 @@
     "COREQ": null,
     "COMPLETED": false,
     "GRADE": null,
-    "SEMESTER": null
+    "SEMESTER": null,
+    "EMPHASIS": null
   },
   {
     "SUBJ": "CS",
@@ -317,7 +321,8 @@
     "COREQ": null,
     "COMPLETED": false,
     "GRADE": null,
-    "SEMESTER": null
+    "SEMESTER": null,
+    "EMPHASIS": null
   },
   {
     "SUBJ": "CS",
@@ -333,7 +338,8 @@
     "COREQ": null,
     "COMPLETED": false,
     "GRADE": null,
-    "SEMESTER": null
+    "SEMESTER": null,
+    "EMPHASIS": null
   },
   {
     "SUBJ": "CS",
@@ -349,7 +355,8 @@
     "COREQ": null,
     "COMPLETED": false,
     "GRADE": null,
-    "SEMESTER": null
+    "SEMESTER": null,
+    "EMPHASIS": null
   },
   {
     "SUBJ": "MATH",
@@ -365,7 +372,8 @@
     "COREQ": null,
     "COMPLETED": false,
     "GRADE": null,
-    "SEMESTER": null
+    "SEMESTER": null,
+    "EMPHASIS": null
   },
   {
     "SUBJ": "MATH",
@@ -381,9 +389,10 @@
     "COREQ": null,
     "COMPLETED": false,
     "GRADE": null,
-    "SEMESTER": null
+    "SEMESTER": null,
+    "EMPHASIS": null
   },
-    {
+  {
     "SUBJ": "MATH",
     "CRS": "2210",
     "SEC": "1",
@@ -397,7 +406,8 @@
     "COREQ": null,
     "COMPLETED": false,
     "GRADE": null,
-    "SEMESTER": null
+    "SEMESTER": null,
+    "EMPHASIS": "e"
   },
   {
     "SUBJ": "MATH",
@@ -413,7 +423,8 @@
     "COREQ": null,
     "COMPLETED": false,
     "GRADE": null,
-    "SEMESTER": null
+    "SEMESTER": null,
+    "EMPHASIS": null
   },
   {
     "SUBJ": "MATH",
@@ -429,7 +440,8 @@
     "COREQ": null,
     "COMPLETED": false,
     "GRADE": null,
-    "SEMESTER": null
+    "SEMESTER": null,
+    "EMPHASIS": null
   },
   {
     "SUBJ": "MATH",
@@ -445,7 +457,8 @@
     "COREQ": null,
     "COMPLETED": false,
     "GRADE": null,
-    "SEMESTER": null
+    "SEMESTER": null,
+    "EMPHASIS": "2"
   },
   {
     "SUBJ": "MATH",
@@ -461,9 +474,10 @@
     "COREQ": null,
     "COMPLETED": false,
     "GRADE": null,
-    "SEMESTER": null
+    "SEMESTER": null,
+    "EMPHASIS": null
   },
-    {
+  {
     "SUBJ": "MATH",
     "CRS": "3280",
     "SEC": "1",
@@ -477,9 +491,10 @@
     "COREQ": null,
     "COMPLETED": false,
     "GRADE": null,
-    "SEMESTER": null
+    "SEMESTER": null,
+    "EMPHASIS": "2"
   },
-      {
+  {
     "SUBJ": "MATH",
     "CRS": "3480",
     "SEC": "1",
@@ -493,7 +508,8 @@
     "COREQ": null,
     "COMPLETED": false,
     "GRADE": null,
-    "SEMESTER": null
+    "SEMESTER": null,
+    "EMPHASIS": "2"
   },
   {
     "SUBJ": "PHYS",
@@ -509,7 +525,8 @@
     "COREQ": null,
     "COMPLETED": false,
     "GRADE": null,
-    "SEMESTER": null
+    "SEMESTER": null,
+    "EMPHASIS": null
   },
   {
     "SUBJ": "PHYS",
@@ -525,7 +542,8 @@
     "COREQ": null,
     "COMPLETED": false,
     "GRADE": null,
-    "SEMESTER": null
+    "SEMESTER": null,
+    "EMPHASIS": null
   },
   {
     "SUBJ": "PHYS",
@@ -541,7 +559,8 @@
     "COREQ": null,
     "COMPLETED": false,
     "GRADE": null,
-    "SEMESTER": null
+    "SEMESTER": null,
+    "EMPHASIS": null
   },
   {
     "SUBJ": "PHYS",
@@ -557,9 +576,27 @@
     "COREQ": null,
     "COMPLETED": false,
     "GRADE": null,
-    "SEMESTER": null
+    "SEMESTER": null,
+    "EMPHASIS": null
   },
     {
+    "SUBJ": "PHYS",
+    "CRS": "2710",
+    "SEC": "1",
+    "CRN": "5095",
+    "TITLE": "Modern Physics",
+    "CREDITS": "3",
+    "DAYS": "R",
+    "BLDG/RM": "GRSC 351",
+    "INSTRUCTOR": "Pugmire, Jonathan",
+    "PREREQ": null,
+    "COREQ": null,
+    "COMPLETED": false,
+    "GRADE": null,
+    "SEMESTER": null,
+    "EMPHASIS": "e"
+  },
+  {
     "SUBJ": "SE",
     "CRS": "3140",
     "SEC": "1",
@@ -573,7 +610,8 @@
     "COREQ": null,
     "COMPLETED": false,
     "GRADE": null,
-    "SEMESTER": null
+    "SEMESTER": null,
+    "EMPHASIS": null
   },
   {
     "SUBJ": "SE",
@@ -589,7 +627,8 @@
     "COREQ": null,
     "COMPLETED": false,
     "GRADE": null,
-    "SEMESTER": null
+    "SEMESTER": null,
+    "EMPHASIS": null
   },
   {
     "SUBJ": "SE",
@@ -605,7 +644,8 @@
     "COREQ": null,
     "COMPLETED": false,
     "GRADE": null,
-    "SEMESTER": null
+    "SEMESTER": null,
+    "EMPHASIS": null
   },
   {
     "SUBJ": "SE",
@@ -621,7 +661,8 @@
     "COREQ": null,
     "COMPLETED": false,
     "GRADE": null,
-    "SEMESTER": null
+    "SEMESTER": null,
+    "EMPHASIS": null
   },
   {
     "SUBJ": "SE",
@@ -637,9 +678,10 @@
     "COREQ": null,
     "COMPLETED": false,
     "GRADE": null,
-    "SEMESTER": null
+    "SEMESTER": null,
+    "EMPHASIS": null
   },
-    {
+  {
     "SUBJ": "SE",
     "CRS": "3820",
     "SEC": "1",
@@ -653,9 +695,10 @@
     "COREQ": null,
     "COMPLETED": false,
     "GRADE": null,
-    "SEMESTER": null
+    "SEMESTER": null,
+    "EMPHASIS": null
   },
-      {
+  {
     "SUBJ": "SE",
     "CRS": "3820",
     "SEC": "1",
@@ -669,7 +712,8 @@
     "COREQ": null,
     "COMPLETED": false,
     "GRADE": null,
-    "SEMESTER": null
+    "SEMESTER": null,
+    "EMPHASIS": null
   },
   {
     "SUBJ": "SE",
@@ -685,9 +729,10 @@
     "COREQ": null,
     "COMPLETED": false,
     "GRADE": null,
-    "SEMESTER": null
+    "SEMESTER": null,
+    "EMPHASIS": null
   },
-    {
+  {
     "SUBJ": "SE",
     "CRS": "4270",
     "SEC": "1",
@@ -701,9 +746,10 @@
     "COREQ": null,
     "COMPLETED": false,
     "GRADE": null,
-    "SEMESTER": null
+    "SEMESTER": null,
+    "EMPHASIS": null
   },
-      {
+  {
     "SUBJ": "SE",
     "CRS": "4340",
     "SEC": "1",
@@ -717,7 +763,8 @@
     "COREQ": null,
     "COMPLETED": false,
     "GRADE": null,
-    "SEMESTER": null
+    "SEMESTER": null,
+    "EMPHASIS": null
   },
   {
     "SUBJ": "SE",
@@ -733,7 +780,8 @@
     "COREQ": null,
     "COMPLETED": false,
     "GRADE": null,
-    "SEMESTER": null
+    "SEMESTER": null,
+    "EMPHASIS": null
   },
   {
     "SUBJ": "SE",
@@ -749,9 +797,10 @@
     "COREQ": null,
     "COMPLETED": false,
     "GRADE": null,
-    "SEMESTER": null
+    "SEMESTER": null,
+    "EMPHASIS": null
   },
-    {
+  {
     "SUBJ": "SE",
     "CRS": "3840",
     "SEC": "1",
@@ -765,8 +814,9 @@
     "COREQ": null,
     "COMPLETED": false,
     "GRADE": null,
-    "SEMESTER": null
-  },  
+    "SEMESTER": null,
+    "EMPHASIS": "3"
+  },
   {
     "SUBJ": "SE",
     "CRS": "4850",
@@ -781,6 +831,8 @@
     "COREQ": null,
     "COMPLETED": false,
     "GRADE": null,
-    "SEMESTER": null
+    "SEMESTER": null,
+    "EMPHASIS": "3"
   }
-]}
+]
+}
