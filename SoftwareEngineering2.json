@@ -8,7 +8,7 @@
         "CREDITS": "3",
         "PREREQ": null,
         "COREQ": null,
-		"SEMESTER": "Fifth Semester",
+        "SEMESTER": "Fifth Semester",
         "EMPHASIS": "0"
     },
     {
@@ -19,7 +19,7 @@
         "CREDITS": "3",
         "PREREQ": null,
         "COREQ": null,
-		"SEMESTER": "Sixth Semester",
+        "SEMESTER": "Sixth Semester",
         "EMPHASIS": "0"
     },
     {
@@ -30,7 +30,7 @@
         "CREDITS": "3",
         "PREREQ": null,
         "COREQ": null,
-		"SEMESTER": "Seventh Semester",
+        "SEMESTER": "Seventh Semester",
         "EMPHASIS": "0"
     },
     {
@@ -41,7 +41,7 @@
         "CREDITS": "4",
         "PREREQ": null,
         "COREQ": null,
-		"SEMESTER": null,
+        "SEMESTER": null,
         "EMPHASIS": "e"
     },
     {
@@ -52,7 +52,7 @@
         "CREDITS": "1",
         "PREREQ": null,
         "COREQ": null,
-		"SEMESTER": null,
+        "SEMESTER": null,
         "EMPHASIS": "e"
     },
     {
@@ -63,7 +63,7 @@
         "CREDITS": "3",
         "PREREQ": null,
         "COREQ": null,
-		"SEMESTER": null,
+        "SEMESTER": null,
         "EMPHASIS": "e"
     },
     {
@@ -74,7 +74,7 @@
         "CREDITS": "1",
         "PREREQ": null,
         "COREQ": null,
-		"SEMESTER": null,
+        "SEMESTER": null,
         "EMPHASIS": "e"
     },
     {
@@ -85,7 +85,7 @@
         "CREDITS": "1",
         "PREREQ": null,
         "COREQ": null,
-		"SEMESTER": "Fifth Semester",
+        "SEMESTER": "Fifth Semester",
         "EMPHASIS": "1"
     },
     {
@@ -96,7 +96,7 @@
         "CREDITS": "3",
         "PREREQ": null,
         "COREQ": null,
-		"SEMESTER": "Sixth Semester",
+        "SEMESTER": "Sixth Semester",
         "EMPHASIS": "1"
     },
     {
@@ -107,7 +107,7 @@
         "CREDITS": "3",
         "PREREQ": null,
         "COREQ": null,
-		"SEMESTER": "Seventh Semester",
+        "SEMESTER": "Seventh Semester",
         "EMPHASIS": "1"
     },
     {
@@ -118,7 +118,7 @@
         "CREDITS": "4",
         "PREREQ": null,
         "COREQ": null,
-		"SEMESTER": null,
+        "SEMESTER": null,
         "EMPHASIS": "e"
     },
     {
@@ -129,7 +129,7 @@
         "CREDITS": "1",
         "PREREQ": null,
         "COREQ": null,
-		"SEMESTER": null,
+        "SEMESTER": null,
         "EMPHASIS": "e"
     },
     {
@@ -140,7 +140,7 @@
         "CREDITS": "3",
         "PREREQ": null,
         "COREQ": null,
-		"SEMESTER": "Second Semester",
+        "SEMESTER": "Second Semester",
         "EMPHASIS": null
     },
     {
@@ -151,7 +151,7 @@
         "CREDITS": "3",
         "PREREQ": null,
         "COREQ": "1415",
-		"SEMESTER": "First Semester",
+        "SEMESTER": "First Semester",
         "EMPHASIS": null
     },
     {
@@ -162,7 +162,7 @@
         "CREDITS": "1",
         "PREREQ": null,
         "COREQ": "1410",
-		"SEMESTER": "First Semester",
+        "SEMESTER": "First Semester",
         "EMPHASIS": null
     },
     {
@@ -173,7 +173,7 @@
         "CREDITS": "1",
         "PREREQ": null,
         "COREQ": null,
-		"SEMESTER": "First Semester",
+        "SEMESTER": "First Semester",
         "EMPHASIS": null
     },
     {
@@ -184,7 +184,7 @@
         "CREDITS": "3",
         "PREREQ": null,
         "COREQ": null,
-		"SEMESTER": "First Semester",
+        "SEMESTER": "First Semester",
         "EMPHASIS": null
     },
     {
@@ -195,7 +195,7 @@
         "CREDITS": "3",
         "PREREQ": "1410",
         "COREQ": null,
-		"SEMESTER": "Second Semester",
+        "SEMESTER": "Second Semester",
         "EMPHASIS": null
     },
     {
@@ -206,7 +206,7 @@
         "CREDITS": "3",
         "PREREQ": null,
         "COREQ": null,
-		"SEMESTER": "Third Semester",
+        "SEMESTER": "Third Semester",
         "EMPHASIS": null
     },
     {
@@ -217,7 +217,7 @@
         "CREDITS": "3",
         "PREREQ": null,
         "COREQ": null,
-		"SEMESTER": "Second Semester",
+        "SEMESTER": "Second Semester",
         "EMPHASIS": null
     },
     {
@@ -228,7 +228,7 @@
         "CREDITS": "3",
         "PREREQ": "2420",
         "COREQ": null,
-		"SEMESTER": "Third Semester",
+        "SEMESTER": "Third Semester",
         "EMPHASIS": null
     },
 	    {
@@ -239,7 +239,7 @@
         "CREDITS": "3",
         "PREREQ": "2810",
         "COREQ": null,
-		"SEMESTER": "Fourth Semester",
+        "SEMESTER": "Fourth Semester",
         "EMPHASIS": null
     },
     {
@@ -250,7 +250,7 @@
         "CREDITS": "3",
         "PREREQ": null,
         "COREQ": null,
-		"SEMESTER": "Sixth Semester",
+        "SEMESTER": "Sixth Semester",
         "EMPHASIS": null
     },
     {
@@ -261,7 +261,7 @@
         "CREDITS": "5",
         "PREREQ": null,
         "COREQ": null,
-		"SEMESTER": "First Semester",
+        "SEMESTER": "First Semester",
         "EMPHASIS": null
     },
     {
@@ -272,7 +272,7 @@
         "CREDITS": "4",
         "PREREQ": "1210",
         "COREQ": null,
-		"SEMESTER": "Second Semester",
+        "SEMESTER": "Second Semester",
         "EMPHASIS": null
     },
     {
@@ -283,7 +283,7 @@
         "CREDITS": "4",
         "PREREQ": null,
         "COREQ": null,
-		"SEMESTER": null,
+        "SEMESTER": null,
         "EMPHASIS": "e"
     },
     {
@@ -294,7 +294,7 @@
         "CREDITS": "3",
         "PREREQ": null,
         "COREQ": null,
-		"SEMESTER": "Fourth Semester",
+        "SEMESTER": "Fourth Semester",
         "EMPHASIS": null
     },
     {
@@ -305,7 +305,7 @@
         "CREDITS": "3",
         "PREREQ": "1210",
         "COREQ": null,
-		"SEMESTER": "Fifth Semester",
+        "SEMESTER": "Fifth Semester",
         "EMPHASIS": null
     },
     {
@@ -316,7 +316,7 @@
         "CREDITS": "3",
         "PREREQ": "2270",
         "COREQ": null,
-		"SEMESTER": "Fifth Semester",
+        "SEMESTER": "Fifth Semester",
         "EMPHASIS": "2"
     },
     {
@@ -327,7 +327,7 @@
         "CREDITS": "3",
         "PREREQ": null,
         "COREQ": null,
-		"SEMESTER": "Third Semester",
+        "SEMESTER": "Third Semester",
         "EMPHASIS": null
     },
     {
@@ -338,7 +338,7 @@
         "CREDITS": "3",
         "PREREQ": null,
         "COREQ": null,
-		"SEMESTER": "Sixth Semester",
+        "SEMESTER": "Sixth Semester",
         "EMPHASIS": "2"
     },
     {
@@ -349,7 +349,7 @@
         "CREDITS": "3",
         "PREREQ": null,
         "COREQ": null,
-		"SEMESTER": null,
+        "SEMESTER": null,
         "EMPHASIS": "2"
     },
     {
@@ -360,7 +360,7 @@
         "CREDITS": "4",
         "PREREQ": null,
         "COREQ": null,
-		"SEMESTER": "Third Semester",
+        "SEMESTER": "Third Semester",
         "EMPHASIS": null
     },
     {
@@ -371,7 +371,7 @@
         "CREDITS": "1",
         "PREREQ": null,
         "COREQ": null,
-		"SEMESTER": "Third Semester",
+        "SEMESTER": "Third Semester",
         "EMPHASIS": null
     },
     {
@@ -382,7 +382,7 @@
         "CREDITS": "4",
         "PREREQ": null,
         "COREQ": "2225",
-		"SEMESTER": "Fourth Semester",
+        "SEMESTER": "Fourth Semester",
         "EMPHASIS": null
     },
     {
@@ -393,7 +393,7 @@
         "CREDITS": "1",
         "PREREQ": null,
         "COREQ": "2220",
-		"SEMESTER": "Fourth Semester",
+        "SEMESTER": "Fourth Semester",
         "EMPHASIS": null
     },
     {
@@ -404,7 +404,7 @@
         "CREDITS": "3",
         "PREREQ": null,
         "COREQ": null,
-		"SEMESTER": null,
+        "SEMESTER": null,
         "EMPHASIS": "e"
     },
     {
@@ -415,7 +415,7 @@
         "CREDITS": "3",
         "PREREQ": null,
         "COREQ": "3630",
-		"SEMESTER": "Sixth Semester",
+        "SEMESTER": "Sixth Semester",
         "EMPHASIS": null
     },
     {
@@ -426,7 +426,7 @@
         "CREDITS": "3",
         "PREREQ": null,
         "COREQ": "3520",
-		"SEMESTER": "Fifth Semester",
+        "SEMESTER": "Fifth Semester",
         "EMPHASIS": null
     },
     {
@@ -437,7 +437,7 @@
         "CREDITS": "3",
         "PREREQ": null,
         "COREQ": "3250",
-		"SEMESTER": "Fifth Semester",
+        "SEMESTER": "Fifth Semester",
         "EMPHASIS": null
     },
     {
@@ -448,7 +448,7 @@
         "CREDITS": "3",
         "PREREQ": null,
         "COREQ": "4450",
-		"SEMESTER": "Eighth Semester",
+        "SEMESTER": "Eighth Semester",
         "EMPHASIS": null
     },
     {
@@ -459,7 +459,7 @@
         "CREDITS": "3",
         "PREREQ": null,
         "COREQ": "3140",
-		"SEMESTER": "Sixth Semester",
+        "SEMESTER": "Sixth Semester",
         "EMPHASIS": null
     },
     {
@@ -470,7 +470,7 @@
         "CREDITS": "3",
         "PREREQ": null,
         "COREQ": "3250",
-		"SEMESTER": "Fifth Semester",
+        "SEMESTER": "Fifth Semester",
         "EMPHASIS": null
     },
     {
@@ -481,7 +481,7 @@
         "CREDITS": "3",
         "PREREQ": null,
         "COREQ": "3630",
-		"SEMESTER": "Sixth Semester",
+        "SEMESTER": "Sixth Semester",
         "EMPHASIS": null
     },
     {
@@ -492,7 +492,7 @@
         "CREDITS": "3",
         "PREREQ": null,
         "COREQ": "4270",
-		"SEMESTER": "Seventh Semester",
+        "SEMESTER": "Seventh Semester",
         "EMPHASIS": null
     },
     {
@@ -503,7 +503,7 @@
         "CREDITS": "3",
         "PREREQ": null,
         "COREQ": "4230",
-		"SEMESTER": "Seventh Semester",
+        "SEMESTER": "Seventh Semester",
         "EMPHASIS": null
     },
     {
@@ -514,7 +514,7 @@
         "CREDITS": "3",
         "PREREQ": null,
         "COREQ": "4450",
-		"SEMESTER": "Eighth Semester",
+        "SEMESTER": "Eighth Semester",
         "EMPHASIS": null
     },
     {
@@ -525,7 +525,7 @@
         "CREDITS": "4",
         "PREREQ": null,
         "COREQ": "4230",
-		"SEMESTER": "Seventh Semester",
+        "SEMESTER": "Seventh Semester",
         "EMPHASIS": null
     },
     {
@@ -536,7 +536,7 @@
         "CREDITS": "4",
         "PREREQ": "4400",
         "COREQ": "4340",
-		"SEMESTER": "Eighth Semester",
+        "SEMESTER": "Eighth Semester",
         "EMPHASIS": null
     },
     {
@@ -547,7 +547,7 @@
         "CREDITS": "4",
         "PREREQ": null,
         "COREQ": null,
-		"SEMESTER": "Sixth Semester",
+        "SEMESTER": "Sixth Semester",
         "EMPHASIS": "3"
     },
     {
@@ -558,7 +558,7 @@
         "CREDITS": "4",
         "PREREQ": null,
         "COREQ": null,
-		"SEMESTER": "Seventh Semester",
+        "SEMESTER": "Seventh Semester",
         "EMPHASIS": "3"
     }
 ]
