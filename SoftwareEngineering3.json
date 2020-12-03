@@ -41,7 +41,7 @@
             "CREDITS": "4",
             "PREREQ": null,
             "COREQ": null,
-            "SEMESTER": null,
+            "SEMESTER": "Electives",
             "EMPHASIS": "e"
         },
         {
@@ -52,7 +52,7 @@
             "CREDITS": "1",
             "PREREQ": null,
             "COREQ": null,
-            "SEMESTER": null,
+            "SEMESTER": "Electives",
             "EMPHASIS": "e"
         },
         {
@@ -63,7 +63,7 @@
             "CREDITS": "3",
             "PREREQ": null,
             "COREQ": null,
-            "SEMESTER": null,
+            "SEMESTER": "Electives",
             "EMPHASIS": "e"
         },
         {
@@ -74,7 +74,7 @@
             "CREDITS": "1",
             "PREREQ": null,
             "COREQ": null,
-            "SEMESTER": null,
+            "SEMESTER": "Electives",
             "EMPHASIS": "e"
         },
         {
@@ -118,7 +118,7 @@
             "CREDITS": "4",
             "PREREQ": null,
             "COREQ": null,
-            "SEMESTER": null,
+            "SEMESTER": "Electives",
             "EMPHASIS": "e"
         },
         {
@@ -129,7 +129,7 @@
             "CREDITS": "1",
             "PREREQ": null,
             "COREQ": null,
-            "SEMESTER": null,
+            "SEMESTER":"Electives",
             "EMPHASIS": "e"
         },
         {
@@ -306,7 +306,7 @@
             "CREDITS": "3",
             "PREREQ": "4261",
             "COREQ": null,
-            "SEMESTER": null,
+            "SEMESTER": "Electives",
             "EMPHASIS": "e"
         },
         {
@@ -427,7 +427,7 @@
             "CREDITS": "3",
             "PREREQ": "4313",
             "COREQ": null,
-            "SEMESTER": null,
+            "SEMESTER": "Electives",
             "EMPHASIS": "e"
         },
         {
