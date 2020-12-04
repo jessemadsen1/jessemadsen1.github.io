@@ -151,7 +151,9 @@
 			"PREREQ": null,
 			"COREQ": "4766",
 			"SEMESTER": "First Semester",
-			"EMPHASIS": null
+			"EMPHASIS": null,
+			"HREF": "https://www.snow.edu/catalog/course.html?crse_numb=1410&subj_code=CS",
+			
 		},
 		{
 			"SUBJ": "CS",
