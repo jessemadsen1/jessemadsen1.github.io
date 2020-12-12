@@ -8,7 +8,8 @@
 			"PREREQ": null,
 			"COREQ": null,
 			"SEMESTER": "Fifth Semester",
-			"EMPHASIS": "0"
+			"EMPHASIS": "0",
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "ART",
@@ -19,7 +20,8 @@
 			"PREREQ": null,
 			"COREQ": null,
 			"SEMESTER": "Sixth Semester",
-			"EMPHASIS": "0"
+			"EMPHASIS": "0",
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "ART",
@@ -30,7 +32,8 @@
 			"PREREQ": null,
 			"COREQ": null,
 			"SEMESTER": "Seventh Semester",
-			"EMPHASIS": "0"
+			"EMPHASIS": "0",
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "BIOL",
@@ -41,7 +44,8 @@
 			"PREREQ": null,
 			"COREQ": null,
 			"SEMESTER": "Electives",
-			"EMPHASIS": null
+			"EMPHASIS": null,
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "BIOL",
@@ -52,7 +56,8 @@
 			"PREREQ": null,
 			"COREQ": null,
 			"SEMESTER": "Electives",
-			"EMPHASIS": null
+			"EMPHASIS": null,
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "BIOL",
@@ -63,7 +68,8 @@
 			"PREREQ": null,
 			"COREQ": null,
 			"SEMESTER": "Electives",
-			"EMPHASIS": null
+			"EMPHASIS": null,
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "BIOL",
@@ -74,7 +80,8 @@
 			"PREREQ": null,
 			"COREQ": null,
 			"SEMESTER": "Electives",
-			"EMPHASIS": null
+			"EMPHASIS": null,
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "BUS",
@@ -85,7 +92,8 @@
 			"PREREQ": null,
 			"COREQ": null,
 			"SEMESTER": "Fifth Semester",
-			"EMPHASIS": "1"
+			"EMPHASIS": "1",
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "BUS",
@@ -96,7 +104,8 @@
 			"PREREQ": null,
 			"COREQ": null,
 			"SEMESTER": "Sixth Semester",
-			"EMPHASIS": "1"
+			"EMPHASIS": "1",
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "BUS",
@@ -107,7 +116,8 @@
 			"PREREQ": null,
 			"COREQ": null,
 			"SEMESTER": "Seventh Semester",
-			"EMPHASIS": "1"
+			"EMPHASIS": "1",
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "CHEM",
@@ -118,7 +128,8 @@
 			"PREREQ": null,
 			"COREQ": null,
 			"SEMESTER": "Electives",
-			"EMPHASIS": null
+			"EMPHASIS": null,
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "CHEM",
@@ -129,7 +140,8 @@
 			"PREREQ": null,
 			"COREQ": null,
 			"SEMESTER": "Electives",
-			"EMPHASIS": null
+			"EMPHASIS": null,
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "COMM",
@@ -140,7 +152,8 @@
 			"PREREQ": null,
 			"COREQ": null,
 			"SEMESTER": "Second Semester",
-			"EMPHASIS": null
+			"EMPHASIS": null,
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "CS",
@@ -151,7 +164,8 @@
 			"PREREQ": null,
 			"COREQ": "4766",
 			"SEMESTER": "First Semester",
-			"EMPHASIS": null
+			"EMPHASIS": null,
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "CS",
@@ -162,7 +176,8 @@
 			"PREREQ": null,
 			"COREQ": "4756",
 			"SEMESTER": "First Semester",
-			"EMPHASIS": null
+			"EMPHASIS": null,
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "CS",
@@ -173,7 +188,8 @@
 			"PREREQ": null,
 			"COREQ": null,
 			"SEMESTER": "First Semester",
-			"EMPHASIS": null
+			"EMPHASIS": null,
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "CS",
@@ -184,7 +200,8 @@
 			"PREREQ": null,
 			"COREQ": null,
 			"SEMESTER": "First Semester",
-			"EMPHASIS": null
+			"EMPHASIS": null,
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "CS",
@@ -195,7 +212,8 @@
 			"PREREQ": "4756",
 			"COREQ": null,
 			"SEMESTER": "Second Semester",
-			"EMPHASIS": null
+			"EMPHASIS": null,
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "CS",
@@ -206,7 +224,8 @@
 			"PREREQ": "4027",
 			"COREQ": null,
 			"SEMESTER": "Third Semester",
-			"EMPHASIS": null
+			"EMPHASIS": null,
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "CS",
@@ -217,7 +236,8 @@
 			"PREREQ": null,
 			"COREQ": null,
 			"SEMESTER": "Second Semester",
-			"EMPHASIS": null
+			"EMPHASIS": null,
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "CS",
@@ -225,10 +245,14 @@
 			"CRN": "5009",
 			"TITLE": "Computer Organiz/Architecture",
 			"CREDITS": "3",
-			"PREREQ": ["4027", "5103"],
+			"PREREQ": [
+				"4027",
+				"5103"
+			],
 			"COREQ": null,
 			"SEMESTER": "Third Semester",
-			"EMPHASIS": null
+			"EMPHASIS": null,
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "CS",
@@ -239,9 +263,9 @@
 			"PREREQ": "5009",
 			"COREQ": null,
 			"SEMESTER": "Fourth Semester",
-			"EMPHASIS": null
+			"EMPHASIS": null,
+			"HREF": "https://www.snow.edu"
 		},
-
 		{
 			"SUBJ": "ENGL",
 			"CRS": "1010",
@@ -251,7 +275,8 @@
 			"PREREQ": null,
 			"COREQ": null,
 			"SEMESTER": "Second Semester",
-			"EMPHASIS": null
+			"EMPHASIS": null,
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "ENGL",
@@ -262,7 +287,8 @@
 			"PREREQ": "1203",
 			"COREQ": null,
 			"SEMESTER": "Third Semester",
-			"EMPHASIS": null
+			"EMPHASIS": null,
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "ENGL",
@@ -273,7 +299,8 @@
 			"PREREQ": "1457",
 			"COREQ": null,
 			"SEMESTER": "Sixth Semester",
-			"EMPHASIS": null
+			"EMPHASIS": null,
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "MATH",
@@ -284,7 +311,8 @@
 			"PREREQ": null,
 			"COREQ": null,
 			"SEMESTER": "First Semester",
-			"EMPHASIS": null
+			"EMPHASIS": null,
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "MATH",
@@ -295,7 +323,8 @@
 			"PREREQ": "4313",
 			"COREQ": null,
 			"SEMESTER": "Second Semester",
-			"EMPHASIS": null
+			"EMPHASIS": null,
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "MATH",
@@ -306,7 +335,8 @@
 			"PREREQ": "4261",
 			"COREQ": null,
 			"SEMESTER": "Electives",
-			"EMPHASIS": null
+			"EMPHASIS": null,
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "MATH",
@@ -317,7 +347,8 @@
 			"PREREQ": "4313",
 			"COREQ": null,
 			"SEMESTER": "Fourth Semester",
-			"EMPHASIS": null
+			"EMPHASIS": null,
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "MATH",
@@ -328,7 +359,8 @@
 			"PREREQ": "4313",
 			"COREQ": null,
 			"SEMESTER": "Fifth Semester",
-			"EMPHASIS": null
+			"EMPHASIS": null,
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "MATH",
@@ -339,7 +371,8 @@
 			"PREREQ": "5945",
 			"COREQ": null,
 			"SEMESTER": "Fifth Semester",
-			"EMPHASIS": "2"
+			"EMPHASIS": "2",
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "MATH",
@@ -350,7 +383,8 @@
 			"PREREQ": "4313",
 			"COREQ": null,
 			"SEMESTER": "Third Semester",
-			"EMPHASIS": null
+			"EMPHASIS": null,
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "MATH",
@@ -361,7 +395,8 @@
 			"PREREQ": "4313",
 			"COREQ": null,
 			"SEMESTER": "Sixth Semester",
-			"EMPHASIS": "2"
+			"EMPHASIS": "2",
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "MATH",
@@ -372,7 +407,8 @@
 			"PREREQ": "4313",
 			"COREQ": null,
 			"SEMESTER": null,
-			"EMPHASIS": "2"
+			"EMPHASIS": "2",
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "PHYS",
@@ -383,7 +419,8 @@
 			"PREREQ": null,
 			"COREQ": "4140",
 			"SEMESTER": "Third Semester",
-			"EMPHASIS": null
+			"EMPHASIS": null,
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "PHYS",
@@ -394,7 +431,8 @@
 			"PREREQ": null,
 			"COREQ": "4139",
 			"SEMESTER": "Third Semester",
-			"EMPHASIS": null
+			"EMPHASIS": null,
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "PHYS",
@@ -405,7 +443,8 @@
 			"PREREQ": "4139",
 			"COREQ": "5095",
 			"SEMESTER": "Fourth Semester",
-			"EMPHASIS": null
+			"EMPHASIS": null,
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "PHYS",
@@ -416,7 +455,8 @@
 			"PREREQ": "4139",
 			"COREQ": "5094",
 			"SEMESTER": "Fourth Semester",
-			"EMPHASIS": null
+			"EMPHASIS": null,
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "PHYS",
@@ -427,7 +467,8 @@
 			"PREREQ": "4313",
 			"COREQ": null,
 			"SEMESTER": "Electives",
-			"EMPHASIS": null
+			"EMPHASIS": null,
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "SE",
@@ -435,10 +476,18 @@
 			"CRN": "5106",
 			"TITLE": "Ethics and Personal Software",
 			"CREDITS": "3",
-			"PREREQ": ["5105", "4867", "4965"],
-			"COREQ": ["4960", "4957"],
+			"PREREQ": [
+				"5105",
+				"4867",
+				"4965"
+			],
+			"COREQ": [
+				"4960",
+				"4957"
+			],
 			"SEMESTER": "Sixth Semester",
-			"EMPHASIS": null
+			"EMPHASIS": null,
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "SE",
@@ -447,9 +496,13 @@
 			"TITLE": "Survey of Languages",
 			"CREDITS": "3",
 			"PREREQ": "CS 2420",
-			"COREQ": ["4867", "4965"],
+			"COREQ": [
+				"4867",
+				"4965"
+			],
 			"SEMESTER": "Fifth Semester",
-			"EMPHASIS": null
+			"EMPHASIS": null,
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "SE",
@@ -458,9 +511,13 @@
 			"TITLE": "Database Theory",
 			"CREDITS": "3",
 			"PREREQ": "CS 2420",
-			"COREQ": ["5105", "4965"],
+			"COREQ": [
+				"5105",
+				"4965"
+			],
 			"SEMESTER": "Fifth Semester",
-			"EMPHASIS": null
+			"EMPHASIS": null,
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "SE",
@@ -468,10 +525,18 @@
 			"CRN": "4964",
 			"TITLE": "Distributed Internet Application",
 			"CREDITS": "3",
-			"PREREQ": ["4966", "4963", "4967"],
-			"COREQ": ["5107", "4970"],
+			"PREREQ": [
+				"4966",
+				"4963",
+				"4967"
+			],
+			"COREQ": [
+				"5107",
+				"4970"
+			],
 			"SEMESTER": "Eighth Semester",
-			"EMPHASIS": null
+			"EMPHASIS": null,
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "SE",
@@ -479,10 +544,18 @@
 			"CRN": "4960",
 			"TITLE": "Mobile Application Development",
 			"CREDITS": "3",
-			"PREREQ": ["5105", "4867", "4965"],
-			"COREQ": ["5106", "4957"],
+			"PREREQ": [
+				"5105",
+				"4867",
+				"4965"
+			],
+			"COREQ": [
+				"5106",
+				"4957"
+			],
 			"SEMESTER": "Sixth Semester",
-			"EMPHASIS": null
+			"EMPHASIS": null,
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "SE",
@@ -491,9 +564,13 @@
 			"TITLE": "Back-end Web Development",
 			"CREDITS": "3",
 			"PREREQ": "4962",
-			"COREQ": ["4867", "5105"],
+			"COREQ": [
+				"4867",
+				"5105"
+			],
 			"SEMESTER": "Fifth Semester",
-			"EMPHASIS": null
+			"EMPHASIS": null,
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "SE",
@@ -501,10 +578,18 @@
 			"CRN": "4957",
 			"TITLE": "Cloud Application Development",
 			"CREDITS": "3",
-			"PREREQ": ["5105", "4867", "4965"],
-			"COREQ": ["4960", "5106"],
+			"PREREQ": [
+				"5105",
+				"4867",
+				"4965"
+			],
+			"COREQ": [
+				"4960",
+				"5106"
+			],
 			"SEMESTER": "Sixth Semester",
-			"EMPHASIS": null
+			"EMPHASIS": null,
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "SE",
@@ -512,10 +597,19 @@
 			"CRN": "4966",
 			"TITLE": "Advanced Algorithms",
 			"CREDITS": "3",
-			"PREREQ": ["4875", "5106", "4960", "4957"],
-			"COREQ": ["4963", "4967"],
+			"PREREQ": [
+				"4875",
+				"5106",
+				"4960",
+				"4957"
+			],
+			"COREQ": [
+				"4963",
+				"4967"
+			],
 			"SEMESTER": "Seventh Semester",
-			"EMPHASIS": null
+			"EMPHASIS": null,
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "SE",
@@ -523,10 +617,18 @@
 			"CRN": "4963",
 			"TITLE": "Software Maintenance Practices",
 			"CREDITS": "3",
-			"PREREQ": ["5106", "4960", "4957"],
-			"COREQ": ["4966", "4967"],
+			"PREREQ": [
+				"5106",
+				"4960",
+				"4957"
+			],
+			"COREQ": [
+				"4966",
+				"4967"
+			],
 			"SEMESTER": "Seventh Semester",
-			"EMPHASIS": null
+			"EMPHASIS": null,
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "SE",
@@ -534,10 +636,18 @@
 			"CRN": "4970",
 			"TITLE": "Secure Coding Practices",
 			"CREDITS": "3",
-			"PREREQ": ["4966", "4963", "4967"],
-			"COREQ": ["5107", "4964"],
+			"PREREQ": [
+				"4966",
+				"4963",
+				"4967"
+			],
+			"COREQ": [
+				"5107",
+				"4964"
+			],
 			"SEMESTER": "Eighth Semester",
-			"EMPHASIS": null
+			"EMPHASIS": null,
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "SE",
@@ -545,10 +655,18 @@
 			"CRN": "4967",
 			"TITLE": "SE Practicum I",
 			"CREDITS": "4",
-			"PREREQ": ["5106", "4960", "4957"],
-			"COREQ": ["4963", "4966"],
+			"PREREQ": [
+				"5106",
+				"4960",
+				"4957"
+			],
+			"COREQ": [
+				"4963",
+				"4966"
+			],
 			"SEMESTER": "Seventh Semester",
-			"EMPHASIS": null
+			"EMPHASIS": null,
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "SE",
@@ -556,10 +674,18 @@
 			"CRN": "5107",
 			"TITLE": "SE Practicum II",
 			"CREDITS": "4",
-			"PREREQ": ["4966", "4963", "4967"],
-			"COREQ": ["4970", "4964"],
+			"PREREQ": [
+				"4966",
+				"4963",
+				"4967"
+			],
+			"COREQ": [
+				"4970",
+				"4964"
+			],
 			"SEMESTER": "Eighth Semester",
-			"EMPHASIS": null
+			"EMPHASIS": null,
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "SE",
@@ -592,7 +718,8 @@
 			"PREREQ": null,
 			"COREQ": null,
 			"SEMESTER": "Fourth Semester",
-			"EMPHASIS": null
+			"EMPHASIS": null,
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "GE",
@@ -603,7 +730,8 @@
 			"PREREQ": null,
 			"COREQ": null,
 			"SEMESTER": "Fifth Semester",
-			"EMPHASIS": null
+			"EMPHASIS": null,
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "GE",
@@ -614,7 +742,8 @@
 			"PREREQ": null,
 			"COREQ": null,
 			"SEMESTER": "Seventh Semester",
-			"EMPHASIS": null
+			"EMPHASIS": null,
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "GE",
@@ -625,7 +754,8 @@
 			"PREREQ": null,
 			"COREQ": null,
 			"SEMESTER": "Eighth Semester",
-			"EMPHASIS": null
+			"EMPHASIS": null,
+			"HREF": "https://www.snow.edu"
 		},
 		{
 			"SUBJ": "MATH/SCI",
@@ -636,7 +766,8 @@
 			"PREREQ": null,
 			"COREQ": null,
 			"SEMESTER": "Eighth Semester",
-			"EMPHASIS": null
+			"EMPHASIS": null,
+			"HREF": "https://www.snow.edu"
 		}
 	]
 }
