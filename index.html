@@ -1,37 +1,189 @@
 <!DOCTYPE html>
-<html>
-<head>
-    <title>Contact Form</title>
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<html lang='en'>
 
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/emailjs-com@2.3.2/dist/email.min.js"></script>
-<script type="application/json" src="~/courses.json"></script>
-<script type="text/javascript">
-   (function(){
-      emailjs.init("user_G9hNkl9W6nFDiaLUdehpL");
-   })();
-</script>
-    <script type="text/javascript">
-        window.onload = function() {
-            document.getElementById('contact-form').addEventListener('submit', function(event) {
-                event.preventDefault();
-                // generate the contact number value
-                this.contact_number.value = Math.random() * 100000 | 0;
-                emailjs.sendForm('contact_service', 'contact_form', this);
-            });
-        }
-    </script>
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Content-Language" content="en">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Tana & Pietro</title>
+<link rel="stylesheet" type="text/css" href="css/main.css">
+<link rel="stylesheet" type="text/css" href="../cloud.typography.com/6800492/733946/css/fonts.css" />
+<script src="../use.typekit.net/icr7dox.js"></script>
+<script>try { Typekit.load(); } catch (e) { }</script>
 </head>
+
 <body>
-    <form id="contact-form">
-        <input type="hidden" name="contact_number">
-        <label>Name</label>
-        <input type="text" name="user_name">
-        <label>Email</label>
-        <input type="email" name="user_email">
-        <label>Message</label>
-        <textarea name="message"></textarea>
-        <input type="submit" value="Send">
-    </form>
+  <div id="header"></div>
+  <section id="hero" class="pane">
+    <div class="pane-title" id="site-title-pane" style="padding-top: 10em;">
+
+      <h1>Tana & Pietro</h1>
+      <p class="byline">are getting married</p>
+      <p class="byline"><i>SI SPOSANO</i></p>
+    </div>
+    <div class="scrollplz">
+      <p>SCROLL FOR MORE</p>
+      <svg id="scrollplz-arrow" height="50px" viewBox="0 0 5 27" stroke="none" fill="currentColor">
+        <rect x="2" y="0" width="1" height="23"></rect>
+        <path d="M0,22.244 L2.493,26.562 L4.986,22.244 L0,22.244 Z"></path>
+      </svg>
+    </div>
+  </section>
+  <section id="overview" class="pane">
+    <div class="pane-content">
+      <div class="pane-row">
+        <div class="who">
+          <div class="title-section">
+            <img id="who-icon" src="https://s3.amazonaws.com/ameliaandsteveassets/icons/icons_tent.svg" />
+            <h2>WHO~CHI</h2>
+            <span class="underline"></span>
+          </div>
+          <p class="larger">Our dearest friends &amp; family</p>
+          <p class="sans-caps">FROM NEAR AND AFAR</p>
+        </div>
+      </div>
+      <div class="pane-row">
+        <div class="when">
+          <div class="title-section">
+            <img id="when-icon" src="https://s3.amazonaws.com/ameliaandsteveassets/icons/icons_watch.svg" />
+            <h2>WHEN~QUANDO</h2>
+            <span class="underline"></span>
+          </div>
+          <p class="larger">September 18, 2021</p>
+          <p class="sans-caps">Sabato, 18 settembre alle 5 della sera</p>
+          <p>
+            <a href="#" title="Add to Calendar" class="addthisevent link-button">
+              Add to Calendar
+              <span class="_start">9-18-2021</span>
+              <span class="_end">9-18-2021</span>
+              <span class="_zonecode">18</span>
+              <span class="_summary">Tana & Pietro Get Married</span>
+              <span class="_description">Tana Arnoldsen and Pietro Iglio are getting married</span>
+              <span class="_location">Via Appia Antica, 201 00178 Roma</span>
+              <span class="_organizer">Tana & Pietro</span>
+              <span class="_all_day_event">true</span>
+              <span class="_date_format">DD/MM/YYYY</span>
+            </a>
+          </p>
+        </div>
+        <div class="where">
+          <div class="title-section">
+            <img id="where-icon" src="https://s3.amazonaws.com/ameliaandsteveassets/icons/icons_mountains.svg" />
+            <h2>WHERE~DOVE</h2>
+            <span class="underline"></span>
+          </div>
+          <p class="larger">Villa Livia</p>
+          <p class="sans-caps">Via Appia Antica, 201</p>
+          <p class="sans-caps">00178 Roma</p>
+          <p><a class="link-button golden" target="_blank" href="http://www.villalivia-appiaantica.it/it/">see on
+              map</a></p>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section id="destination" class="pane">
+    <div class="pane-content">
+      <div class="pane-title">
+        <h2>DESTINATION ~ DESTINAZIONE</h2>
+
+      </div>
+      <img class="asheville-image round" src="photos/rome.jpeg" />
+      <h4>The Eternal City</h4>
+      <p>Home of the Ancient Roman Empire, Vatican City, The Seven Hills, SPQR, and <il>La Dolce Vita</il>. </p>
+      <p>Come drink champagne with us and dance!</p>
+    </div>
+  </section>
+  <section id="getting-there" class="pane">
+    <img class="asheville-image round" src="photos/StefanospicofusTrentino750.jpg" />
+    <div class="pane-content">
+      <div class="pane-title">
+        <h2>OUR STORY</h2>
+
+      </div>
+      <div class="pane-row">
+
+        <img id="airplane-svg" src="https://s3.amazonaws.com/ameliaandsteveassets/icons/icons_airplane.svg" />
+        <p>Tana wanted to practice Italian before visiting her kids studying in Rome, so she downloaded a conversation
+          app where she met Pietro. When she mentioned she was headed to Rome shortly, Pietro said that’s where he lived
+          and that they should go grab a cup of coffee </p>
+      </div>
+
+      <h4>~ The rest is history ~</h4>
+    </div>
+    </div>
+    </div>
+  </section>
+  <section id="schedule" class="pane">
+    <div class="pane-content">
+      <div class="pane-title">
+        <h2>La nostra storia è</h2>
+        <p>Tana voleva praticare l'italiano prima di visitare i suoi figli che studiavano a Roma, quindi ha scaricato un'app di conversazione dove ha incontrato Pietro. Quando ha detto che sarebbe andata a Roma a breve, Pietro ha detto che è lì che viveva e che avrebbero dovuto andare a prendere una tazza di caffè</p>
+        <span class="underline"></span>
+      </div>
+      <div id="schedule-body"></div>
+
+    </div>
+  </section>
+
+  <section id="lodging" class="pane">
+    <div class="pane-content">
+      <div class="pane-title">
+        <h2>LODGING</h2>
+        <span class="underline"></span>
+      </div>
+      <div class="hotel-container">
+        <img class="round" src="photos/hotel.jpg" />
+        <h4>Hotel Castle</h4>
+        <p>We’ve reserved rooms at a Hotel Castle close to city center Rome. Complimentary shuttle service to the
+          downtown area and transportation to and from the wedding ceremony/reception included.</p>
+        <div id="hotel-button"></div>
+      </div>
+      <div class="airbnb">
+        <img class="round" src="photos/airbnb.jpg" />
+        <h4>Airbnb</h4>
+        <p>Tana and Pietro love airbnb for a more authentic introduction to a city. Explore the Rome area from a
+          local's perspective by renting an entire apartment. This is a particularly fun option for groups
+          travelling together.</p>
+        <a href="https://www.airbnb.com/rooms/37894736?check_in=2021-04-21&check_out=2021-04-22&federated_search_id=cbf54a5c-104e-45cd-9f50-d92e4a064014&source_impression_id=p3_1614694144_SXnrZkDgR46ryTTy&guests=1&adults=1"
+          class="link-button golden">Search</a>
+      </div>
+    </div>
+  </section>
+
+  <section id="registry" class="pane flex">
+    <div class="pane-content">
+      <div class="pane-title">
+        <h2>REGISTRY</h2>
+        <span class="underline"></span>
+      </div>
+      <div class="registry-description">
+        <p>The best present you could possibly give us is the celebration of our marriage. However, if you’d like to
+          spoil us, we’ve picked out a few items, activities, and charities that pique our interests.</p>
+        <a href="https://www.amazon.com/wedding/home" target="_blank" class="link-button golden">Registry on Thankful</a>
+      </div>
+    </div>
+  </section>
+  <section id="faq" class="pane">
+  </section>
+
+  <div id="footer">
+  </div>
+  <script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+  <script src="js/app.js"></script>
+  <script type="text/javascript" src="../www.addevent.com/libs/1.5.8/ate.min.js"></script>
+  <script type="text/javascript">
+    addthisevent.settings({
+      mouse: false,
+      css: false,
+      outlook: { show: true, text: 'Outlook' },
+      google: { show: true, text: 'Google Calendar' },
+      yahoo: { show: false },
+      ical: { show: true, text: 'Apple Calendar' },
+      hotmail: { show: true, text: 'Hotmail Calendar' },
+      facebook: { show: false }
+    })
+  </script>
 </body>
+
 </html>
