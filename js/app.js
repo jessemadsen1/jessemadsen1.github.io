@@ -13173,7 +13173,7 @@
             }, b.prototype.valueOf = b.prototype.toJSON = b.prototype.value, b.prototype.toString = function() {
                 return "" + this._wrapped
             }, "function" == typeof define && define.amd && define("underscore", [], function() {
-                return b
+                return b 
             })
         }).call(this)
     }, {}]
