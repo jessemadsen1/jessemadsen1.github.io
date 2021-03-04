@@ -336,28 +336,13 @@
                         className: "nav-link mobile-only"
                     }, r.createElement("a", {
                         onClick: this.close,
-                        href: "#getting-there"
-                    }, "GETTING THERE")), r.createElement("li", {
-                        className: "nav-link"
-                    }, r.createElement("a", {
-                        onClick: this.close,
                         href: "#schedule"
                     }, "OUR STORY")), r.createElement("li", {
                         className: "nav-link mobile-only"
                     }, r.createElement("a", {
                         onClick: this.close,
-                        href: "#activities"
-                    }, "ACTIVITIES")), r.createElement("li", {
-                        className: "nav-link"
-                    }, r.createElement("a", {
-                        onClick: this.close,
                         href: "#lodging"
                     }, "LODGING")), r.createElement("li", {
-                        className: "nav-link mobile-only"
-                    }, r.createElement("a", {
-                        onClick: this.close,
-                        href: "#wedding-party"
-                    }, "WEDDING PARTY")), r.createElement("li", {
                         className: "nav-link mobile-only"
                     }, r.createElement("a", {
                         onClick: this.close,
