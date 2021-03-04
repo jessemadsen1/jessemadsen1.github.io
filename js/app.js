@@ -150,36 +150,17 @@
             i = (e("classnames"), e("./faq-show"));
         faqs = {
             calendar: [{
-                q: "There are a lot of things on the schedule. What events should I attend?",
-                a: "<p>We wanted the schedule a holistic view of the events we've planned, but please only join in for the events shown under your RSVP.</p>"
-            }, {
-                q: "When should I arrive and how long should I stay?",
-                a: "<p>Most of the events kick off on Friday night and end on Sunday afternoon, but please enjoy the area for as long as you're able.</p>"
-            }],
-            suitcase: [{
-                q: "What should I wear? shoes, dress, etc.",
-                a: "<p>Shoes: Weather permitting, the ceremony and parts of the reception will be outdoors, so shoes that can traverse gravel and grass would make your life easier.</p> <p>Dress: Wear whatever makes you feel classy without sacrificing your comfort. Think &lsquo;Cate Blanchett goes camping&rsquo;.</p><p>Stilleto heels are not allowed at Yesterday Spaces.</p>"
-            }, {
-                q: "Should I pack anything special?",
-                a: "<p>The hotel will have a pool, and if the temperature is right, the area has a lot of swimming holes you may or may not want to explore. If so, a bathing suit is a must! Hiking boots/comfortable sneakers would also ensure your ability to explore in comfort.</p>"
-            }, {
-                q: "What will the weather be like in Asheville that time of year?",
-                a: "<p>Asheville averages a high of 77F and a low of 57F during the month of September. A light jacket and/or rain gear may be useful during your stay.</p>"
-            }],
-            bellies: [{
-                q: "Will you be serving alcohol at the reception?",
-                a: "<p>Yes, we will be serving beer and wine, along with an assortment of non-alcoholic beverages.</p>"
-            }, {
-                q: "Will you be accommodating any diet restrictions?",
-                a: "<p>We will accommodate full vegetarian meals and have a few gluten free options. If you have any dietary concerns, please feel free to let us know so we can explore options for you!</p>"
-            }],
-            photos: [{
-                q: "Can I take pictures during the ceremony?",
-                a: "<p>We are asking everyone to not take photos during the ceremony. Please keep your phones and cameras in your pockets or bags. We will have professional photographers and videographers capturing the ceremony and we'll share the results!</p>"
-            }, {
-                q: "What hashtag should I use for sharing photos from other times of the weekend?",
-                a: 'We\'ll be using the hashtag <strong>#hanklise</strong> for all of your <a target="_blank" href="https://instagram.com/explore/tags/hanklise/">Instagram</a>, <a target="_blank" href="https://twitter.com/search?f=tweets&q=%23hanklise&src=typd">Twitter</a> or <a target="_blank" href="https://www.facebook.com/search/str/%23hanklise/keywords_top">Facebook</a>.'
-            }]
+                q: "Picture Credits",
+                a: "<p>Hotel Castle    https://www.hotelcastle.it/en</p> <p> Airbnb    https://www.airbnb.com/rooms/37894736?check_in=2021-04-21&check_out=2021-04-22&federated_search_id=cbf54a5c-104e-45cd-9f50-d92e4a064014&source_impression_id=p3_1614694144_SXnrZkDgR46ryTTy&guests=1&adults=1</p> <p>Rome  https://www.timeout.com/rome/things-to-do/best-time-to-visit-rome</p"
+
+            },{
+                q: "Icons",
+                a: "<p>https://s3.amazonaws.com/ameliaandsteveassets/icons/icons_tent.svg</p>"
+            },{
+                q: "Website Templates/Examples",
+                a: "<p>https://zyro.com/blog/wedding-website-examples/</p>"
+            } ],
+            
         }, t.exports = o.createClass({
             displayName: "FAQIndex",
             render: function() {
@@ -215,13 +196,13 @@
                     className: "underline"
                 })), o.createElement("div", {
                     className: "faq-section"
-                }, o.createElement("h3", null, "YOUR CALENDAR"), e), o.createElement("div", {
+                }, o.createElement("h3", null, ""), e), o.createElement("div", {
                     className: "faq-section"
-                }, o.createElement("h3", null, "YOUR SUITCASE"), t), o.createElement("div", {
+                }, o.createElement("h3", null, ""), t), o.createElement("div", {
                     className: "faq-section"
-                }, o.createElement("h3", null, "YOUR BELLIES"), n), o.createElement("div", {
+                }, o.createElement("h3", null, ""), n), o.createElement("div", {
                     className: "faq-section"
-                }, o.createElement("h3", null, "YOUR PHOTOS"), a))
+                }, o.createElement("h3", null, ""), a))
             }
         })
     }, {
